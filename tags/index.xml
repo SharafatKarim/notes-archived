@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sharafat Karim | Notes</title>
-    <link>https://sharafat.is-a.dev/notes/tags/</link>
+    <link>https://sharafat.is-a.dev/notes-archived/tags/</link>
     <description>Recent content in Tags on Sharafat Karim | Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Creative common CC-0</copyright><atom:link href="https://sharafat.is-a.dev/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Creative common CC-0</copyright><atom:link href="https://sharafat.is-a.dev/notes-archived/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

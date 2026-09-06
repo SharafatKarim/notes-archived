@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sharafat Karim | Notes</title>
-    <link>https://sharafat.is-a.dev/notes/posts/</link>
+    <link>https://sharafat.is-a.dev/notes-archived/posts/</link>
     <description>Recent content in Posts on Sharafat Karim | Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Creative common CC-0</copyright><atom:link href="https://sharafat.is-a.dev/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Creative common CC-0</copyright><atom:link href="https://sharafat.is-a.dev/notes-archived/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>adb</title>
-      <link>https://sharafat.is-a.dev/notes/adb/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/adb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/adb/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/adb/</guid>
       <description>Adb Pair &amp;amp; Connect Use the following, to pair first,
 adb pair ipaddr:port Then use the following command to connect:
 adb connect ipaddr:port Use the following to list them out,
@@ -32,10 +32,10 @@ adb devices -l Mirror adb shell screenrecord --bit-rate 8000000 --size 1280x720 
     
     <item>
       <title>anime</title>
-      <link>https://sharafat.is-a.dev/notes/anime/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/anime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/anime/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/anime/</guid>
       <description>Anime Collection https://everythingmoe.com/ </description>
       <content>&lt;h1 id=&#34;anime&#34;&gt;Anime&lt;/h1&gt;
 &lt;h2 id=&#34;collection&#34;&gt;Collection&lt;/h2&gt;
@@ -47,10 +47,10 @@ adb devices -l Mirror adb shell screenrecord --bit-rate 8000000 --size 1280x720 
     
     <item>
       <title>archlinux</title>
-      <link>https://sharafat.is-a.dev/notes/archlinux/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/archlinux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/archlinux/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/archlinux/</guid>
       <description>ArchLinux An operating system that is based on Linux. It is a free and open-source software. It is a rolling release system. It is a lightweight and flexible operating system. It is a simple and easy to use operating system. It is a fast and efficient operating system. It is a secure and stable operating system. It is a powerful and customizable operating system. It is a reliable and robust operating system.</description>
       <content>&lt;h2 id=&#34;archlinux&#34;&gt;ArchLinux&lt;/h2&gt;
 &lt;p&gt;An operating system that is based on Linux. It is a free and open-source software. It is a rolling release system. It is a lightweight and flexible operating system. It is a simple and easy to use operating system. It is a fast and efficient operating system. It is a secure and stable operating system. It is a powerful and customizable operating system. It is a reliable and robust operating system. It is a versatile and extensible operating system. It is a modern and up-to-date operating system. It is a user-friendly and intuitive operating system. It is a community-driven and collaborative operating system. It is a cutting-edge and innovative operating system. It is a feature-rich and comprehensive operating system. It is a high-performance and high-quality&lt;/p&gt;
@@ -78,10 +78,10 @@ adb devices -l Mirror adb shell screenrecord --bit-rate 8000000 --size 1280x720 
     
     <item>
       <title>bash</title>
-      <link>https://sharafat.is-a.dev/notes/bash/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/bash/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/bash/</guid>
       <description>Bash Linux bash corner.
 Bashrc _ .bashrc PS1 generator
 Generate your .bashrc/PS1 bash prompt easily
@@ -106,10 +106,10 @@ https://bashrcgenerator.com/ https://bash-prompt-generator.org/ https://github.c
     
     <item>
       <title>bdix</title>
-      <link>https://sharafat.is-a.dev/notes/bdix/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/bdix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/bdix/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/bdix/</guid>
       <description>BDIX BDIX is the first Internet Exchange Point (IXP) of Bangladesh. It was established to provide physical interconnection for its members to exchange and route local Internet traffic locally through it. Since 2014, BDIX has maintained leadership of the fast-developing Internet industry of Bangladesh by providing high quality services that provided fast, cost-effective and efficient Internet connections for its members and their customers. BDIX is a not-for-profit venture of the Sustainable Development Networking Foundation (SDNF) Bangladesh.</description>
       <content>&lt;h1 id=&#34;bdix&#34;&gt;BDIX&lt;/h1&gt;
 &lt;p&gt;BDIX is the first Internet Exchange Point (IXP) of Bangladesh. It was established to provide physical interconnection for its members to exchange and route local Internet traffic locally through it. Since 2014, BDIX has maintained leadership of the fast-developing Internet industry of Bangladesh by providing high quality services that provided fast, cost-effective and efficient Internet connections for its members and their customers. BDIX is a not-for-profit venture of the Sustainable Development Networking Foundation (SDNF) Bangladesh. So far more than 110 Organisations of different types (ISPs, Mobile Operators, Content Providers) are peering through BDIX.&lt;/p&gt;
@@ -220,10 +220,10 @@ https://bashrcgenerator.com/ https://bash-prompt-generator.org/ https://github.c
     
     <item>
       <title>books</title>
-      <link>https://sharafat.is-a.dev/notes/books/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/books/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/books/</guid>
       <description>Books Some places for books to read.
 Z-Lib Z-Library Official domains:
 Web: https://z-library.sk TOR: http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion
@@ -286,10 +286,10 @@ TOR: &lt;a href=&#34;http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhe
     
     <item>
       <title>browser</title>
-      <link>https://sharafat.is-a.dev/notes/browser/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/browser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/browser/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/browser/</guid>
       <description>Browser ব্রাউজার নিয়ে কিছূ কনসেপ্ট,
 Blue Whale আমরা তো কতোই ব্রাউজার দেখি এগুলো আসলে কোনটাই আসল বা মেইন ব্রাউজার না।
 মেইন ব্রাউজার মাত্র ৩ টা,
@@ -321,10 +321,10 @@ Chrome browser চলে Blink মেশিনে, ফায়ারফক্স �
     
     <item>
       <title>cp</title>
-      <link>https://sharafat.is-a.dev/notes/cp/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/cp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/cp/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/cp/</guid>
       <description>Competitive Programming Some of the resources that I have found useful for competitive programming.
 First of all, here&amp;rsquo;s my snippet,
 #include &amp;lt;bits/stdc++.h&amp;gt; using namespace std; // Simple template by sharafat typedef long long ll; typedef pair&amp;lt;int, int&amp;gt; pii; typedef pair&amp;lt;ll, ll&amp;gt; pll; typedef pair&amp;lt;string, string&amp;gt; pss; typedef vector&amp;lt;int&amp;gt; vi; typedef vector&amp;lt;vi&amp;gt; vvi; typedef vector&amp;lt;pii&amp;gt; vii; typedef vector&amp;lt;ll&amp;gt; vl; typedef vector&amp;lt;vl&amp;gt; vvl; #define endl &amp;#39;\n&amp;#39; void test() { } int main() { ios_base::sync_with_stdio(false); cin.</description>
@@ -374,10 +374,10 @@ First of all, here&amp;rsquo;s my snippet,
     
     <item>
       <title>duck</title>
-      <link>https://sharafat.is-a.dev/notes/duck/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/duck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/duck/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/duck/</guid>
       <description>Duck? It&amp;rsquo;s actually &amp;lt;duck.com&amp;gt; or your favorite duckduckgo!
 Email protection Head over to,
 https://duckduckgo.com/duckduckgo-help-pages/email-protection/duck-addresses/how-do-i-compose-a-new-email/ And in this way, suppose,
@@ -402,10 +402,10 @@ To   : sharafat2004_at_gmail.com_sharafat@duck.com
     
     <item>
       <title>firefox</title>
-      <link>https://sharafat.is-a.dev/notes/firefox/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/firefox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/firefox/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/firefox/</guid>
       <description>Firefox Disable Alt shortcut To disable the Alt key shortcut in Firefox, you can use the following method:
 Open Firefox and type about:config in the address bar. Press Enter. In the search bar, type ui.key.menuAccessKeyFocuses. Set the value to 0 (zero) to disable the Alt key shortcut. Restart Firefox for the changes to take effect. </description>
       <content>&lt;h1 id=&#34;firefox&#34;&gt;Firefox&lt;/h1&gt;
@@ -423,10 +423,10 @@ Open Firefox and type about:config in the address bar. Press Enter. In the searc
     
     <item>
       <title>fonts</title>
-      <link>https://sharafat.is-a.dev/notes/fonts/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/fonts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/fonts/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/fonts/</guid>
       <description>Fonts Bangla পূর্ণ ফন্ট ডাউলোড করুন: https://bangla.gov.bd/purno
 https://bongolipi.com https://codepotro.com https://fontbd.com https://lipighor.com https://omicronlab.com https://ekushey.org https://okkhor52.com https://fonts.google.com https://fontlipi.com https://banglarfont.xyz https://dhakatype.live https://freelipi.com https://banglaharaf.com https://bengalfonts.com https://bornolipi52.com
 এগুলাতে বাংলা ফ্রি ও পেইড ফন্ট পাবেন। পছন্দ করে ডাউনলোড করে নিন।</description>
@@ -457,10 +457,10 @@ https://bongolipi.com https://codepotro.com https://fontbd.com https://lipighor.
     
     <item>
       <title>github</title>
-      <link>https://sharafat.is-a.dev/notes/github/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/github/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/github/</guid>
       <description>GitHub Auto change image based on color scheme &amp;lt;picture&amp;gt; &amp;lt;source media=&amp;#34;(prefers-color-scheme: dark)&amp;#34; srcset=&amp;#34;&amp;#34;&amp;gt; &amp;lt;source media=&amp;#34;(prefers-color-scheme: light)&amp;#34; srcset=&amp;#34;&amp;#34;&amp;gt; &amp;lt;img alt=&amp;#34;&amp;#34; src=&amp;#34;&amp;#34;&amp;gt; &amp;lt;/picture&amp;gt; Markdown extra styles &amp;gt; [!NOTE] &amp;gt; Useful information that users should know, even when skimming content. &amp;gt; [!TIP] &amp;gt; Helpful advice for doing things better or more easily. &amp;gt; [!IMPORTANT] &amp;gt; Key information users need to know to achieve their goal. &amp;gt; [!WARNING] &amp;gt; Urgent info that needs immediate user attention to avoid problems.</description>
       <content>&lt;h1 id=&#34;github&#34;&gt;GitHub&lt;/h1&gt;
 &lt;h2 id=&#34;auto-change-image-based-on-color-scheme&#34;&gt;Auto change image based on color scheme&lt;/h2&gt;
@@ -489,10 +489,10 @@ https://bongolipi.com https://codepotro.com https://fontbd.com https://lipighor.
     
     <item>
       <title>hosting</title>
-      <link>https://sharafat.is-a.dev/notes/hosting/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/hosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/hosting/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/hosting/</guid>
       <description>Hosting Accounts portal.cornq.com - BDIX free drive panel.amarhoster.com - sharafat.xyz domain https://v1.bdixdrive.com/drive - BDIX drive Free VPS https://ap-southeast-1.run.claw.cloud/ https://console.run.claw.cloud/signin?link=F2YUZBSXRXZG hosting buy https://hostbn.com/web-hosting (SSH) https://my.disneyhost.com/index.php?rp=/store/linux-cloud-web-hosting (SSH) https://surge.sh/ https://fleek.xyz/ Domain https://minthost.com.bd/ (299 BDT - 1700 BDT) &amp;lt;www.hostseba.com&amp;gt; (221 BDT - 1888 BDT) https://panel.amarhoster.com/domain/pricing (199 BDT - 1600 BDT) vps https://foxnode.cloud/bdix-vps https://vps1dollar.com/client/dashboard BD hosting and services https://www.hostever.com/ Payment Gateway
 https://edokan.co/ Bank
 https://www.priyo.com/ </description>
@@ -543,10 +543,10 @@ https://www.priyo.com/ </description>
     
     <item>
       <title>idm</title>
-      <link>https://sharafat.is-a.dev/notes/idm/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/idm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/idm/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/idm/</guid>
       <description>IDM Internet download manager (IDM) is a popular download manager software. It is a paid software but you can use it for free by using a crack. But it is not recommended to use cracked software. It is better to use free and open-source software like uGet or Xtreme Download Manager. (-AI)
 Trial freezing IDM is a paid software. But you can use it for free for 30 days. After 30 days, you can&amp;rsquo;t use it anymore.</description>
       <content>&lt;h1 id=&#34;idm&#34;&gt;IDM&lt;/h1&gt;
@@ -576,10 +576,10 @@ Trial freezing IDM is a paid software. But you can use it for free for 30 days. 
     
     <item>
       <title>ieee</title>
-      <link>https://sharafat.is-a.dev/notes/ieee/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/ieee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/ieee/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/ieee/</guid>
       <description>IEEE Conference paper template https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn </description>
       <content>&lt;h1 id=&#34;ieee&#34;&gt;IEEE&lt;/h1&gt;
 &lt;h2 id=&#34;conference-paper-template&#34;&gt;Conference paper template&lt;/h2&gt;
@@ -591,10 +591,10 @@ Trial freezing IDM is a paid software. But you can use it for free for 30 days. 
     
     <item>
       <title>kvm</title>
-      <link>https://sharafat.is-a.dev/notes/kvm/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/kvm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/kvm/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/kvm/</guid>
       <description>KVM - Virtual Machine KVM, Kernel-based Virtual Machine, is a hypervisor built into the Linux kernel. It is similar to Xen in purpose but much simpler to get running.
 Read more here&amp;hellip; Setup For ArchLinux,
 https://wiki.archlinux.org/title/KVM#How_to_use_KVM https://wiki.archlinux.org/title/QEMU And, yet an another good guide,
@@ -631,10 +631,10 @@ sudo virsh net-list --all If so, start the default network:</description>
     
     <item>
       <title>latex</title>
-      <link>https://sharafat.is-a.dev/notes/latex/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/latex/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/latex/</guid>
       <description>LaTeX LaTeX Installation For ArchLinux, I just follow Arch Wiki. In vscode, it should work out of the box with, LaTeX Workshop extension. But formatting may not work properly. Try to trigger latexindent manually to resolve it.
 VSCODE Here&amp;rsquo;s my vscode config for now for latex,
 { &amp;#34;latex-workshop.latex.recipe.default&amp;#34;: &amp;#34;latexmk (xelatex)&amp;#34;, &amp;#34;latex-workshop.latex.tools&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;-pdf&amp;#34;, &amp;#34;-outdir=%OUTDIR%&amp;#34;, &amp;#34;%DOC%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;lualatexmk&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;-lualatex&amp;#34;, &amp;#34;-outdir=%OUTDIR%&amp;#34;, &amp;#34;%DOC%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;xelatexmk&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-shell-escape&amp;#34;, &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;-xelatex&amp;#34;, &amp;#34;-outdir=%OUTDIR%&amp;#34;, &amp;#34;%DOC%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;latexmk_rconly&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;latexmk&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;%DOC%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;pdflatex&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;pdflatex&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-synctex=1&amp;#34;, &amp;#34;-interaction=nonstopmode&amp;#34;, &amp;#34;-file-line-error&amp;#34;, &amp;#34;%DOC%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;bibtex&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;bibtex&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;%DOCFILE%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;rnw2tex&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;Rscript&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-e&amp;#34;, &amp;#34;knitr::opts_knit$set(concordance = TRUE); knitr::knit(&amp;#39;%DOCFILE_EXT%&amp;#39;)&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;jnw2tex&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;julia&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-e&amp;#34;, &amp;#34;using Weave; weave(\&amp;#34;%DOC_EXT%\&amp;#34;, doctype=\&amp;#34;tex\&amp;#34;)&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;jnw2texminted&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;julia&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-e&amp;#34;, &amp;#34;using Weave; weave(\&amp;#34;%DOC_EXT%\&amp;#34;, doctype=\&amp;#34;texminted\&amp;#34;)&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;pnw2tex&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;pweave&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-f&amp;#34;, &amp;#34;tex&amp;#34;, &amp;#34;%DOC_EXT%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;pnw2texminted&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;pweave&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;-f&amp;#34;, &amp;#34;texminted&amp;#34;, &amp;#34;%DOC_EXT%&amp;#34; ], &amp;#34;env&amp;#34;: {} }, { &amp;#34;name&amp;#34;: &amp;#34;tectonic&amp;#34;, &amp;#34;command&amp;#34;: &amp;#34;tectonic&amp;#34;, &amp;#34;args&amp;#34;: [ &amp;#34;--synctex&amp;#34;, &amp;#34;--keep-logs&amp;#34;, &amp;#34;%DOC%.</description>
@@ -972,10 +972,10 @@ In vscode, it should work out of the box with, LaTeX Workshop extension. But for
     
     <item>
       <title>linux</title>
-      <link>https://sharafat.is-a.dev/notes/linux/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/linux/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/linux/</guid>
       <description>Linux Personal reports Silvermoon HW Probe HW Probe Blender benchmark Blender benchmark on Linux Geekbench dell Inspiron 15 3520 benchmark+ win11+ high temp
 https://browser.geekbench.com/v6/cpu/1073881 https://browser.geekbench.com/v6/compute/385591 https://browser.geekbench.com/v6/compute/385608 just installed arch Linux and ran benchmark with battery power
 on battery 🔋
@@ -1126,10 +1126,10 @@ reboot করতে পারেন।
     
     <item>
       <title>mail</title>
-      <link>https://sharafat.is-a.dev/notes/mail/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/mail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/mail/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/mail/</guid>
       <description>Mail Things related with mails.
 Hosting Zoho Mail: Free for 5 users, 5GB/user. </description>
       <content>&lt;h1 id=&#34;mail&#34;&gt;Mail&lt;/h1&gt;
@@ -1143,10 +1143,10 @@ Hosting Zoho Mail: Free for 5 users, 5GB/user. </description>
     
     <item>
       <title>minecraft</title>
-      <link>https://sharafat.is-a.dev/notes/minecraft/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/minecraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/minecraft/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/minecraft/</guid>
       <description>Minecraft Modpack Homestead - A Cozy Survival Experience Better MC [Fabric] TerraFirmaCraft </description>
       <content>&lt;h1 id=&#34;minecraft&#34;&gt;Minecraft&lt;/h1&gt;
 &lt;h2 id=&#34;modpack&#34;&gt;Modpack&lt;/h2&gt;
@@ -1160,10 +1160,10 @@ Hosting Zoho Mail: Free for 5 users, 5GB/user. </description>
     
     <item>
       <title>mongodb</title>
-      <link>https://sharafat.is-a.dev/notes/mongodb/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/mongodb/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/mongodb/</guid>
       <description>mongodb A moment with mongoimport First of all docs link,
 https://www.mongodb.com/developer/products/mongodb/mongoimport-guide/ So, my command was like,
 mongoimport --uri &amp;#39;mongodb+srv://sharafat:somethign@cluster0.something.mongodb.net/pstu_student_db?retryWrites=true&amp;amp;w=majority&amp;amp;appName=Cluster0&amp;#39; --collection=&amp;#39;students&amp;#39; --file=input.csv --type=csv --fieldFile=field.txt Preety kool, right?</description>
@@ -1181,10 +1181,10 @@ mongoimport --uri &amp;#39;mongodb+srv://sharafat:somethign@cluster0.something.m
     
     <item>
       <title>mysql</title>
-      <link>https://sharafat.is-a.dev/notes/mysql/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/mysql/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/mysql/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/mysql/</guid>
       <description>My SQL MySQL is a RDBMS software which use SQL like syntax to manage databases. Nowadays most of the major linux distributions come with maria db preinstalled, which is an open source drop in replace ment for MySQL. I’ll be writing about some ways to install MySQL in linux based operating systems,
 XAMPP Xampp is a popular tool which is an open source cross-platform web server solution stack package developed by Apache friends.</description>
       <content>&lt;h1 id=&#34;my-sql&#34;&gt;My SQL&lt;/h1&gt;
@@ -1271,10 +1271,10 @@ Now with &lt;code&gt;localhost:3306&lt;/code&gt; you can access this database fr
     
     <item>
       <title>networking</title>
-      <link>https://sharafat.is-a.dev/notes/networking/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/networking/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/networking/</guid>
       <description>networking Networking refers to the practice of connecting computers and other devices together to share resources. This can be done in a variety of ways, including through physical cables, wireless connections, and virtual networks.
 For now the collection of some terms, I may need in future.
 Global networks https://www.zerotier.com/ Tools Who is using a port? sudo lsof -i :&amp;lt;port_number&amp;gt; </description>
@@ -1293,10 +1293,10 @@ Global networks https://www.zerotier.com/ Tools Who is using a port? sudo lsof -
     
     <item>
       <title>obsidian</title>
-      <link>https://sharafat.is-a.dev/notes/obsidian/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/obsidian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/obsidian/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/obsidian/</guid>
       <description>Obsidian Useful plugins obsidian-git </description>
       <content>&lt;h1 id=&#34;obsidian&#34;&gt;Obsidian&lt;/h1&gt;
 &lt;h2 id=&#34;useful-plugins&#34;&gt;Useful plugins&lt;/h2&gt;
@@ -1308,10 +1308,10 @@ Global networks https://www.zerotier.com/ Tools Who is using a port? sudo lsof -
     
     <item>
       <title>office</title>
-      <link>https://sharafat.is-a.dev/notes/office/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/office/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/office/</guid>
       <description>Office Basically Microsoft office!
 Get Office 365 The simplest way to get Office 365 running on your Windows (10/11) computer.
 Source https://github.com/NaeemBolchhi/Get-Office-365 Installation If Office was ever installed before,
@@ -1401,10 +1401,10 @@ Uninstall Office with the App and Features option (a.k.a. Add or Remove Programs
     
     <item>
       <title>offline</title>
-      <link>https://sharafat.is-a.dev/notes/offline/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/offline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/offline/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/offline/</guid>
       <description>Offline In the world without internet, this project may come handy.
 https://kiwix.org/en/ </description>
       <content>&lt;h1 id=&#34;offline&#34;&gt;Offline&lt;/h1&gt;
@@ -1417,10 +1417,10 @@ https://kiwix.org/en/ </description>
     
     <item>
       <title>oracle-db</title>
-      <link>https://sharafat.is-a.dev/notes/oracle-db/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/oracle-db/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/oracle-db/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/oracle-db/</guid>
       <description>Oracle Database Installation Mainly I will be focusing linux, but will work on mac as well with same commands.
 For windows? You can download the installer from the official website and follow the instructions.
 https://www.oracle.com/database/technologies/xe-downloads.html Setup a container Docker and podman are the two most popular containerization tools. I will be using podman for this, and I will recommend podman as well. Why? Maybe I will write a blog on this later.</description>
@@ -1514,10 +1514,10 @@ Let&amp;rsquo;s use vscode. Simply install the following extension,&lt;/p&gt;
     
     <item>
       <title>pandoc</title>
-      <link>https://sharafat.is-a.dev/notes/pandoc/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/pandoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/pandoc/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/pandoc/</guid>
       <description>pandoc podman podman run --rm \ --volume &amp;#34;$(pwd):/data:Z&amp;#34; \ pandoc/extra analysis.md -o analysis-2.pdf </description>
       <content>&lt;h1 id=&#34;pandoc&#34;&gt;pandoc&lt;/h1&gt;
 &lt;h2 id=&#34;podman&#34;&gt;podman&lt;/h2&gt;
@@ -1529,10 +1529,10 @@ Let&amp;rsquo;s use vscode. Simply install the following extension,&lt;/p&gt;
     
     <item>
       <title>pnpm</title>
-      <link>https://sharafat.is-a.dev/notes/pnpm/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/pnpm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/pnpm/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/pnpm/</guid>
       <description>PNPM Global Install something globally pnpm add -g &amp;lt;package-name&amp;gt; Make sure PNPM_HOME and ENV are all set!
 Update all global pnpm up -g List all global packages pnpm ls -g Remove a global package pnpm rm -g nativefier Interesting packages pake-cli Local Update all local pnpm update --interactive --latest Aliases # Prefer pnpm over npm alias npm=&amp;#34;pnpm&amp;#34; alias npx=&amp;#34;pnpm dlx&amp;#34; </description>
       <content>&lt;h1 id=&#34;pnpm&#34;&gt;PNPM&lt;/h1&gt;
@@ -1562,10 +1562,10 @@ Update all global pnpm up -g List all global packages pnpm ls -g Remove a global
     
     <item>
       <title>podman</title>
-      <link>https://sharafat.is-a.dev/notes/podman/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/podman/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/podman/</guid>
       <description>Podman Podman is a daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Its command-line interface is similar to Docker&amp;rsquo;s, making it easy for users familiar with Docker to transition to Podman.
 Installation Registries Red Hat - Container Registries Packages N8N To install,
 podman run -d \ --name n8n \ --network=host \ -e GENERIC_TIMEZONE=&amp;#34;Asia/Dhaka&amp;#34; \ -e TZ=&amp;#34;Asia/Dhaka&amp;#34; \ -e N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true \ -e N8N_RUNNERS_ENABLED=true \ -v n8n_data:/home/node/.</description>
@@ -1593,10 +1593,10 @@ podman run -d \ --name n8n \ --network=host \ -e GENERIC_TIMEZONE=&amp;#34;Asia/
     
     <item>
       <title>privacy</title>
-      <link>https://sharafat.is-a.dev/notes/privacy/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/privacy/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/privacy/</guid>
       <description>Privacy বিভিন্ন অভিজ্ঞ মানুষজনের থেকে নেয়া privacy tips এর কিছূ সংগ্রহ। বিশদ বিস্তারিতভাবে জানতে এই লিংক ব্যবহার করুন,
 https://www.privacyguides.org/en/basics/why-privacy-matters/ ব্রাউজার Some recommendations,
 Desktop : Libre wolf, Brave, Tor Browser. Android : Brave, Firefox focus, Cromite, Mull, Tor. IOS phone : Brave. যদি আপনার একাধিক প্লাটফর্মে তথ্য সিঙ্ক করতে হয় তাহলে Brave/ Firefox ব্যবহার করে দেখতে পারেন।
@@ -1676,10 +1676,10 @@ NEVER FORGIVE.
     
     <item>
       <title>react</title>
-      <link>https://sharafat.is-a.dev/notes/react/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/react/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/react/</guid>
       <description>React Installation Steps to get started with React,
 npx create-react-app project-name npm install react-router-dom # routing And one liner for material UI,
 npm install @mui/material @emotion/react @emotion/styled UI Some aesthetic React UI components (personal favorite)
@@ -1722,10 +1722,10 @@ https://daisyui.com/ https://ui.aceternity.com/ https://ant.design/ https://mant
     
     <item>
       <title>research</title>
-      <link>https://sharafat.is-a.dev/notes/research/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/research/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/research/</guid>
       <description>Research Journal Free Journal https://noapc.com/ https://www.scimagojr.com/journalrank.php?openaccess_diamond=true https://journalsearches.com/free-publishing-journals.php https://doaj.org/search/journals?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%5B%7B%22term%22%3A%7B%22bibjson.apc.has_apc%22%3Afalse%7D%7D%2C%7B%22term%22%3A%7B%22bibjson.other_charges.has_other_charges%22%3Afalse%7D%7D%5D%7D%7D%2C%22track_total_hits%22%3Atrue%7D </description>
       <content>&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
 &lt;h2 id=&#34;journal&#34;&gt;Journal&lt;/h2&gt;
@@ -1741,10 +1741,10 @@ https://daisyui.com/ https://ui.aceternity.com/ https://ant.design/ https://mant
     
     <item>
       <title>rss</title>
-      <link>https://sharafat.is-a.dev/notes/rss/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/rss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/rss/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/rss/</guid>
       <description>RSS Rss stands for Really Simple Syndication. It is a way to get updates from a website or blog. You can subscribe to an RSS feed and get updates in your feed reader.
 A more in-depth overview is available here,
 https://github.com/AboutRSS/ALL-about-RSS?tab=readme-ov-file#-free-servers Apps Thunderbird (desktop) Feedbro (browser) Feeder (android) Collections Some generic collections,
@@ -1790,10 +1790,10 @@ https://distrowatch.com/index.php?language=EN http://www.omgubuntu.co.uk/ https:
     
     <item>
       <title>security</title>
-      <link>https://sharafat.is-a.dev/notes/security/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/security/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/security/</guid>
       <description>Security বিভিন্ন অভিজ্ঞ মানুষজনের থেকে নেয়া security tips এর সংগ্রহ।
 থ্রেড টি সাময়িকভাবে সরিয়ে নেয়া হয়েছে privacy tips section এ।</description>
       <content>&lt;h1 id=&#34;security&#34;&gt;Security&lt;/h1&gt;
@@ -1805,10 +1805,10 @@ https://distrowatch.com/index.php?language=EN http://www.omgubuntu.co.uk/ https:
     
     <item>
       <title>ssh</title>
-      <link>https://sharafat.is-a.dev/notes/ssh/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/ssh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/ssh/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/ssh/</guid>
       <description>SSH SSH to connect to a remote server.
 GUI method? Use putty for GUI method.
 https://archlinux.org/packages/extra/x86_64/putty/ Login SSH with .ppk file on Terminal Convert your .ppk to .pem file using puttygen.
@@ -1839,10 +1839,10 @@ ssh -L 1337:127.0.0.1:1337 test@192.168.122.34 Reference https://askubuntu.com/q
     
     <item>
       <title>storages</title>
-      <link>https://sharafat.is-a.dev/notes/storages/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/storages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/storages/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/storages/</guid>
       <description>Storages and Storage Drivers storage কি? হয়তো হবে কিছু একটা যেটা আমাদের তথ্য রাখে।
 এখন প্রশ্নটা হলো প্রকারভেদ নিয়ে। storage দুই প্রকার,
 primary (বেশী পরিমানে read write হয়। অর্থাৎ সবসময় CPU এর সাথে যোগাযোগ active) আর secondary storage (সবসময় read, write করার প্রয়োজন নেই) ভাবছি ইন্টারনেটে তো না জানি কতো website কতো ভাবে classify করা হয়েছে। যাহোক এ নিয়ে আমার মাথাব্যাথা নেই। আমি একটা সাধারণ ভাবে লেখছি।
@@ -1907,10 +1907,10 @@ storage দুই প্রকার,&lt;/p&gt;
     
     <item>
       <title>swap</title>
-      <link>https://sharafat.is-a.dev/notes/swap/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/swap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/swap/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/swap/</guid>
       <description>Swap How-to-Enable-Swap-on-Ubuntu Enabling swap space on your Ubuntu system is an essential task for optimizing performance, especially if you&amp;rsquo;re running resource-intensive applications. Swap space acts as an overflow area for your RAM, allowing your system to continue functioning smoothly when the physical memory is fully utilized. In this guide, we&amp;rsquo;ll walk you through the process of enabling swap on Ubuntu.
 Step 1: Check Existing Swap Space Before creating new swap space, it&amp;rsquo;s important to check if any swap is already enabled.</description>
       <content>&lt;h1 id=&#34;swap&#34;&gt;Swap&lt;/h1&gt;
@@ -1944,10 +1944,10 @@ Step 1: Check Existing Swap Space Before creating new swap space, it&amp;rsquo;s
     
     <item>
       <title>telegram</title>
-      <link>https://sharafat.is-a.dev/notes/telegram/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/telegram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/telegram/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/telegram/</guid>
       <description>Telegram New on Telegram? To get started with Telegram, after setting up an account, contact with this dude, (actually a bot),
 Explore Telegram Channels একগুচ্ছ টেলিগ্রাম চ্যানেল,
 আন্তর্জাতিক খবরাখবর https://t.me/insafTV https://t.me/inb19 https://t.me/AFBengali https://t.me/Beloved_Ummah710 https://t.me/doamuslimsbangla https://t.me/newsboxbangla সালাফদের কথা ও কাজ https://t.me/manzursposts https://t.me/IslamicArchive313 দাওয়াহ ও সমাজ https://t.me/me_sirah https://t.me/muslimatrix https://t.me/deen_islam_ofc https://t.me/ilmweb_net https://t.me/MuslimBanglaa লেখক কবি চিন্তক আলেম দাঈ অন্যান্য https://t.me/masud887 https://t.me/contruction23 https://t.me/rakibulhasanduir https://t.me/ShamsulArefin2091 https://t.me/relentl https://t.me/toha_mh https://t.me/cognitivecoterie2 https://t.me/zubairalif https://t.me/imranraihan https://t.me/HanafiFiqhBD বিবিধ https://t.me/iTahmidtg https://t.me/akwritings https://t.me/imrultelegram https://t.me/muslimbonga https://t.</description>
@@ -2094,10 +2094,10 @@ Full collection here,&lt;/p&gt;
     
     <item>
       <title>thunderbird</title>
-      <link>https://sharafat.is-a.dev/notes/thunderbird/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/thunderbird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/thunderbird/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/thunderbird/</guid>
       <description>Thunderbird An email client, right? Well it&amp;rsquo;s more than that.
 Extensions Some interesting extensions,
 ublock origin provider for google calendar google keep tab AI grammar checker &amp;amp; Rephraser tbkeys Keyboard shortcuts https://support.mozilla.org/en-US/kb/keyboard-shortcuts-thunderbird </description>
@@ -2121,10 +2121,10 @@ ublock origin provider for google calendar google keep tab AI grammar checker &a
     
     <item>
       <title>ui</title>
-      <link>https://sharafat.is-a.dev/notes/ui/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/ui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/ui/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/ui/</guid>
       <description>UI Tools https://uiverse.io/ stitch.withgoogle.com/ </description>
       <content>&lt;h1 id=&#34;ui&#34;&gt;UI&lt;/h1&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -2137,10 +2137,10 @@ ublock origin provider for google calendar google keep tab AI grammar checker &a
     
     <item>
       <title>uv</title>
-      <link>https://sharafat.is-a.dev/notes/uv/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/uv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/uv/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/uv/</guid>
       <description>UV The python package uv provides a simple interface for working with UV coordinates in 3D graphics. UV coordinates are used to map textures onto 3D models, allowing for detailed surface appearances.
 Gobal package uv tool install git-filter-repo Useful packages md2typst </description>
       <content>&lt;h1 id=&#34;uv&#34;&gt;UV&lt;/h1&gt;
@@ -2156,10 +2156,10 @@ Gobal package uv tool install git-filter-repo Useful packages md2typst </descrip
     
     <item>
       <title>vscode</title>
-      <link>https://sharafat.is-a.dev/notes/vscode/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/vscode/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/vscode/</guid>
       <description>VSCODE A text editor.
 Extensions Appearance One Dark Pro Error Lens Git GitHub Actions GitHub Codespaces GitLens GitHub Pull Requests GitHub Repositories Azure Repos AI Codeium GitHub Copilot GitHub Copilot Chat Containers and remote Dev Containers Remote Repositories WSL Docker Language Support Code spell Checker Code Runner IntelliCode MongoDB for VS Code C/C++ CMake Tools LaTeX Workshop isort Pylance PyPI Assistant Python shell-format Tailwind CSS IntelliSense SQL Tools Jupyter Utilites Competitive Programming Helper (cph) WakaTime Live Share Live Server Preetier Config File Sample config file for starters!</description>
       <content>&lt;h1 id=&#34;vscode&#34;&gt;VSCODE&lt;/h1&gt;
@@ -2483,10 +2483,10 @@ Extensions Appearance One Dark Pro Error Lens Git GitHub Actions GitHub Codespac
     
     <item>
       <title>warp</title>
-      <link>https://sharafat.is-a.dev/notes/warp/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/warp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/warp/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/warp/</guid>
       <description>Warp When the Internet was built, computers weren’t mobile. They sat in offices next to data centers. The Internet has changed but the assumptions made 30 years ago are making your experience slower and less secure.
 1.1.1.1 with WARP replaces the connection between your device and the Internet with a modern, optimized, protocol.
 Website Play Store Android Keys Maybe replit? There are several keys tricks. Or, some telegram bots, like,</description>
@@ -2539,10 +2539,10 @@ But before using license don&amp;rsquo;t forget the above new command.&lt;/p&gt;
     
     <item>
       <title>windows</title>
-      <link>https://sharafat.is-a.dev/notes/windows/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/windows/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/windows/</guid>
       <description>Windows Some windowsy stuffs!
 ISO https://gravesoft.dev/ Win 11 - Offline installation At any screen during Windows Setup, press, Shift + F10 to open a Command Prompt window.
 Run this command to allow installation without an internet connection,
@@ -2595,10 +2595,10 @@ to open a Command Prompt window.&lt;/p&gt;
     
     <item>
       <title>wireshark</title>
-      <link>https://sharafat.is-a.dev/notes/wireshark/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/wireshark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/wireshark/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/wireshark/</guid>
       <description>Wireshark Archlinux To install in Archlinux, yay wireshark for GUI, install the wireshark-qt one.
 Add your user to the wireshark usergroup. sudo usermod -a -G wireshark $(whoami) And re-login and reboot. </description>
       <content>&lt;h2 id=&#34;wireshark&#34;&gt;Wireshark&lt;/h2&gt;
@@ -2620,10 +2620,10 @@ Add your user to the wireshark usergroup. sudo usermod -a -G wireshark $(whoami)
     
     <item>
       <title>zotero</title>
-      <link>https://sharafat.is-a.dev/notes/zotero/</link>
+      <link>https://sharafat.is-a.dev/notes-archived/zotero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sharafat.is-a.dev/notes/zotero/</guid>
+      <guid>https://sharafat.is-a.dev/notes-archived/zotero/</guid>
       <description>Zotero Plugins Install the store,
 https://github.com/syt2/zotero-addons While installing in firefox, make sure to right click and save link as. Because otherwise firefox will treat the file as it&amp;rsquo;s own extension :(
 Recommended plugins zoplicate </description>
