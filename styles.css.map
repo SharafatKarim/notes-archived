@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/notes/notes",
+	"sourceRoot": "/home/runner/work/notes-archived/notes-archived",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
