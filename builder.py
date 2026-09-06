@@ -30,7 +30,7 @@ def generate_readme():
                 if file.endswith(".md"):
                     # readme.write(f"- [{_re()} {file[:-3]}]({os.path.join(root, file)}) | [VIEW PAGE {_re()}](https://sharafat.is-a.dev/notes/{file[:-3]})\n")
                     # readme.write(f"<a href='https://sharafat.is-a.dev/notes/{file[:-3]}' target='_blank'><img src='https://img.shields.io/badge/VIEW PAGE-{file[:-3]}-blue?style=for-the-badge&logo=appveyor'></a>\n")
-                    readme.write(f"- [{_re()} {file[:-3]}]({os.path.join(root, file)}) | <a href='https://sharafat.is-a.dev/notes/{file[:-3]}' target='_blank'>VIEW PAGE {_re()}</a>\n")
+                    readme.write(f"- [{_re()} {file[:-3]}]({os.path.join(root, file)}) | <a href='https://sharafat.is-a.dev/notes-archived/{file[:-3]}' target='_blank'>VIEW PAGE {_re()}</a>\n")
         readme.write("\n")
     
     # read from readme/foot.md
